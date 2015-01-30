@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1421995201 source:c:\users\joseph\documents\projects\csci_homework\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
+1422045328 source:c:\users\joseph\documents\projects\csci_homework\assignment1.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+

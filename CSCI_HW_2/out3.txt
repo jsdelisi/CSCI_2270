@@ -1,0 +1,32 @@
+Shortest words:
+191 - is
+90 - no
+37 - am
+2 - id
+11 - us
+11 - im
+2 - j
+2 - va
+1 - la
+2 - el
+1 - un
+1 - de
+2 - ay
+1 - f
+1 - s
+441 - was
+271 - fish
+249 - old
+246 - man
+230 - him
+205 - had
+191 - is
+189 - said
+173 - now
+165 - thought
+#
+Array doubled: 5
+#
+Unique non-common words: 2589
+#
+Total non-common words: 15190

@@ -1,0 +1,16 @@
+2686924 - 
+682 - is
+492 - peeta
+479 - its
+431 - im
+427 - can
+414 - says
+379 - him
+368 - when
+367 - no
+#
+Array doubled: 7
+#
+Unique non-common words: 7682
+#
+Total non-common words: 59157
